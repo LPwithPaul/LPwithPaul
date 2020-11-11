@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on some Bots and nice LED stuff :)
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything :D
-- 📫 How to reach me: Website, Twitter, Instagram, Discord
-- 😄 Pronouns: he
+- 📫 How to reach me: Twitter, Instagram, Discord
 - ⚡ Fun fact: I learned everything i know about coding myself :D
 
 [![Website](https://img.shields.io/website?label=LPwithPaul.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lpwithpaul.net)
