@@ -10,10 +10,6 @@
 [![Website](https://img.shields.io/website?label=LPwithPaul.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lpwithpaul.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LPwithPaul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLPwithPaul&screen_name=LPwithPaul)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-lpwithpaul.vercel.app/api/spotify-playing" alt="LPwithPaul Spotify Playing" width="350" />](https://open.spotify.com/user/aulhack)
-
 ### Connect with me:
 
 [<img align="left" alt="https://lpwithpaul.net/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
