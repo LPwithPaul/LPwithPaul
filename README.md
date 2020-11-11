@@ -16,6 +16,7 @@
 [<img align="left" alt="LPwithPaul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LPwithPaul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LPwithPaul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LPwithPaul | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -55,3 +56,4 @@
 [twitter]: https://twitter.com/lpwithpaul
 [youtube]: https://www.youtube.com/c/lpwithpaul
 [instagram]: https://instagram.com/lpwithpaul
+[discord]: https://discord.gg/QVXPbFK
