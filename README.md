@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LPwithPaul Spotify Playing" width="350" />](https://open.spotify.com/user/aulhack)
+[<img src="https://now-playing-lpwithpaul.vercel.app/api/spotify-playing" alt="LPwithPaul Spotify Playing" width="350" />](https://open.spotify.com/user/aulhack)
 
 ### Connect with me:
 
