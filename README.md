@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**LPwithPaul/LPwithPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there, I'm Paul - aka [LPwithPaul][website] 👋
 
 - 🔭 I’m currently working on some Boty and nice LED stuff :)
 - 🌱 I’m currently learning Python
@@ -11,9 +6,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Website, Twitter, Instagram, Discord
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: I learned everytihing i know about coding myself :D
--->
-
-### Hi there, I'm Paul - aka [LPwithPaul][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lpwithpaul.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLPwithPaul&screen_name=LPwithPaul)
