@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Python
 - 💬 Ask me about anything :D
 - 📫 How to reach me: Website, Twitter, Instagram, Discord
-- 😄 Pronouns: he / his
-- ⚡ Fun fact: I learned everytihing i know about coding myself :D
+- 😄 Pronouns: he
+- ⚡ Fun fact: I learned everything i know about coding myself :D
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lpwithpaul.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLPwithPaul&screen_name=LPwithPaul)
