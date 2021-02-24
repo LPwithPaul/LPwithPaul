@@ -1,7 +1,6 @@
 ### Hi there, I'm Paul - aka [LPwithPaul][website] 👋
 
 - 🔭 I’m currently working on some Bots and nice LED stuff :)
-- 🌱 I’m currently learning Python
 - 💬 Ask me about anything :D
 - 📫 How to reach me: Twitter, Instagram, Discord
 - ⚡ Fun fact: I learned everything i know about coding myself :D
