@@ -1,4 +1,4 @@
-### Hi there, I'm Paul - aka [LPwithPaul][website] 👋
+### Hi there, I'm Paul - aka [PCH][website] 👋
 
 - 🔭 I’m currently working on some Bots and nice LED stuff :)
 - 💬 Ask me about anything :D
@@ -12,11 +12,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="https://lpwithpaul.net/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LPwithPaul | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="LPwithPaul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LPwithPaul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="LPwithPaul | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="https://pch.dev/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="pch_dev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="pch_dev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="pch.dev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pch.dev#1337 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -40,12 +40,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="LPwithPauls's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LPwithPaul&show_icons=true&hide_border=true" />
+  <img align="left" alt="Paul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LPwithPaul&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://lpwithpaul.net
-[twitter]: https://twitter.com/lpwithpaul
+[website]: https://pch.dev
+[twitter]: https://twitter.com/pch_dev
 [youtube]: https://www.youtube.com/c/lpwithpaul
-[instagram]: https://instagram.com/lpwithpaul
+[instagram]: https://instagram.com/pch.dev
 [discord]: https://discord.gg/QVXPbFK
