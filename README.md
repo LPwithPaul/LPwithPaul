@@ -1,8 +1,8 @@
 ### Hi there, I'm Paul - aka [PCH][website] 👋
 
-- 🔭 I’m currently working on some Bots and nice LED stuff :)
+- 🔭 I’m currently working on a live Chat App using Svelte :)
 - 💬 Ask me about anything :D
-- 📫 How to reach me: Twitter, Instagram, Discord
+- 📫 How to reach me: Instagram or Discord
 - ⚡ Fun fact: I learned everything i know about coding myself :D
 
 [![Website](https://img.shields.io/website?label=LPwithPaul.net&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://lpwithpaul.net)
